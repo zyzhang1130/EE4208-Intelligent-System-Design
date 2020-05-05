@@ -1,0 +1,3 @@
+1. 'canny' python script generates the ouput at different stage of Canny edge detector for a particluar image. The default image is 'cana'. Change the file name at line 411 to apply Canny edge detector to different images. The image must be put under the same directory for the scrip to work. The parameters are not optimized as there are more than one final output.
+
+2. the rawConverter is written to convert RAW image into  JPG image. It should be put under the same directory as the RAW image to do the conversion. However, we did not include the RAW image in our submission. 
